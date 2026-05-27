@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchepdate",
+        "uuid": 5188800,
+        "checksum": "buvn0i"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
